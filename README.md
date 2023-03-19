@@ -10,7 +10,7 @@ Please refer to https://arxiv.org/abs/2109.07107
 
 ### Training Setting
 ```
-- batch size : 36 (official - 64)
+- batch size : 36 (official - 8 :  8 GPUs with 1 image per GPU)
 - optimizer : Adamw
 - epoch : 50
 - lr : 1e-4 

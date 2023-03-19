@@ -1,4 +1,4 @@
-# DETR pytorch
+# ANCHOR DETR pytorch
 
 re-implementation of anchor detr
 Please refer to https://arxiv.org/abs/2109.07107

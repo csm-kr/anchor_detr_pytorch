@@ -22,11 +22,4 @@ Please refer to https://arxiv.org/abs/2109.07107
 
 - quantitative results
 
-|methods        | Traning Dataset        |    Testing Dataset     | Resolution.  | AP               |
-|---------------|------------------------| ---------------------- | ------------ | ---------------- |
-|papers         | COCOtrain2017          |  COCO val2017(minival) | 800 ~ 1333   | 42.0 (500 epoch) |
-|this repo      | COCOtrain2017          |  COCO val2017(minival) | 1024 x 1024  | 41.1 (300 epoch) |
-
 - qualitative reusults
-
-![results](https://user-images.githubusercontent.com/18729104/221108742-09ded1a8-dcf2-41df-9485-b659e3b6ca08.png)
